@@ -14,4 +14,5 @@ Have a carachter from: https://www.mixamo.com/#/
 
 Controls:
 movement - wasd
+
 jump - space
