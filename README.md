@@ -11,3 +11,7 @@ Inspiration to ui: https://www.youtube.com/watch?v=zc8ac_qUXQY
 some of the Movement and pickup objects are inspiration from: https://learn.unity.com/project/roll-a-ball
 
 Have a carachter from: https://www.mixamo.com/#/
+
+Controls:
+movement - wasd
+jump - space
